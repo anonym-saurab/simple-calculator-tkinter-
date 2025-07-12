@@ -1,7 +1,7 @@
 # simple-calculator-tkinter
 A Simple Calculator created using the Python's standard GUI library named Tkinter. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-[simple-calculator.png](simple-calculator.png)
+[calculator-picture](simple-calculator.png)
 
 ## FEATURES:
 -  Addition (+)
